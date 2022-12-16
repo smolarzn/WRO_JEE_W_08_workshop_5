@@ -10,7 +10,7 @@
     <properties>
         <maven.compiler.source>3</maven.compiler.source>
         <maven.compiler.target>13</maven.compiler.target>
-        <spring-framework.version>5.2.7.RELEASE</spring-framework.version>
+        <spring-framework.version>5.2.20.RELEASE</spring-framework.version>
         <packaging>war</packaging>
     </properties>
     <dependencies>
